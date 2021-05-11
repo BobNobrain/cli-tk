@@ -1,0 +1,6 @@
+node_modules
+
+tools/bin
+
+packages/*/package.json
+packages/*/dist

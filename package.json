@@ -1,0 +1,15 @@
+{
+  "name": "@cli-tk/box",
+  "version": "0.0.1",
+  "description": "A toolbox for CLI creation",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BobNobrain",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^15.0.2",
+    "typescript": "^4.2.4"
+  }
+}
